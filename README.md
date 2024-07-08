@@ -12,9 +12,9 @@ Meeting Schedule:
 | 05-03-2024 | [Who is Aldo Faisal?](https://github.com/alan-turing-institute/neuro-ai-reading-group/blob/main/sessions/2024-05-03/2024-05-03%20Aldo%20Faisal.md) | Levan Bokeria | Isaac Asimov (2nd floor)  |
 | 05-17-2024 | [Catalyzing next-generation Artificial Intelligence through NeuroAI](https://www.nature.com/articles/s41467-023-37180-x)   | Praveen Selvaraj | Isaac Asimov (2nd floor)  |
 | 06-07-2024 | Grokking and Tokenisation, Backpropagation and the brain   | Praveen Salvaraj | Isaac Asimov (2nd floor)  |
-| 06-21-2024 | Free   | - | Isaac Asimov (2nd floor)  |
+| 06-21-2024 | Levan Bokeria   | Pre-discussion on Jacques Carolan's ARIA programme | Isaac Asimov (2nd floor)  |
 | 07-05-2024 | Jacques Carolan (ARIA)   | [Precision Neurotechnologies for Human Therapeutics](https://www.aria.org.uk/what-were-working-on/#jacques) | Isaac Asimov (2nd floor)  |
-| 07-12-2024 | Free   | - | Isaac Asimov (2nd floor)  |
+| 07-12-2024 | Turing Neuro-AI Social (TBC)   | - | Isaac Asimov (2nd floor)  |
 | 08-02-2024 | Free   | - | Isaac Asimov (2nd floor)  |
 | 08-16-2024 | Free   | - | Isaac Asimov (2nd floor)  |
 
