@@ -14,7 +14,7 @@ Meeting Schedule:
 | 06-07-2024 | Grokking and Tokenisation, Backpropagation and the brain   | Praveen Salvaraj | Isaac Asimov (2nd floor)  |
 | 06-21-2024 | Levan Bokeria   | Pre-discussion on Jacques Carolan's ARIA programme | Isaac Asimov (2nd floor)  |
 | 07-05-2024 | Jacques Carolan (ARIA)   | [Precision Neurotechnologies for Human Therapeutics](https://www.aria.org.uk/what-were-working-on/#jacques) | Isaac Asimov (2nd floor)  |
-| 07-12-2024 | Turing Neuro-AI Social (TBC)   | - | Isaac Asimov (2nd floor)  |
+| 07-19-2024 | Free   | - | Isaac Asimov (2nd floor)  |
 | 08-02-2024 | Free   | - | Isaac Asimov (2nd floor)  |
 | 08-16-2024 | Free   | - | Isaac Asimov (2nd floor)  |
 
