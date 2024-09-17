@@ -15,8 +15,8 @@ Meeting Schedule:
 | 06-21-2024 | Pre-discussion on Jacques Carolan's ARIA programme | Levan Bokeria   | Isaac Asimov (2nd floor)  |
 | 07-05-2024 | [Precision Neurotechnologies for Human Therapeutics](https://www.aria.org.uk/what-were-working-on/#jacques) | Jacques Carolan (ARIA) | Isaac Asimov (2nd floor)  |
 | 07-26-2024 | Re-watching [Aldo's Health Fest talk](https://mathison.turing.ac.uk/page/3352) | Levan Bokeria | Ursula Franklin (1st floor)  |
-| 08-09-2024 | Free   | - | Isaac Asimov (2nd floor)  |
-| 08-16-2024 | Free   | - | Isaac Asimov (2nd floor)  |
+| 20-09-2024 | Discussing [Brain Emulations](https://videos.carboncopies.org/view?m=yY1QRzTQA)   | Levan Bokeria | Margaret Hamilton (1st floor)  |
+| 04-10-2024 | Free   | - | Mae Jamison (1st floor)  |
 
 Add suggested topics and ideas here: 
 [Google doc for ideas brain dump](https://docs.google.com/document/d/1jUdNckEyq8KCdHE2EFlncBy74TiQZj-gKjBX3_1t95A/edit?usp=sharing)
