@@ -17,6 +17,7 @@ Meeting Schedule:
 | 07-26-2024 | Re-watching [Aldo's Health Fest talk](https://mathison.turing.ac.uk/page/3352) | Levan Bokeria | Ursula Franklin (1st floor)  |
 | 20-09-2024 | Discussing [Brain Emulations](https://videos.carboncopies.org/view?m=yY1QRzTQA)   | Levan Bokeria | Margaret Hamilton (1st floor)  |
 | 04-10-2024 | [The Brain Emulation micro-workshop](https://www.youtube.com/live/YYcuM45qu1o?si=xZU7CuC0HQxAu7_r)   | - | Mae Jamison (1st floor)  |
+| 18-10-2024 | [The Brain Emulation micro-workshop](https://www.youtube.com/live/YYcuM45qu1o?si=xZU7CuC0HQxAu7_r) continued   | - | Ursula Franklin (1st floor)  |
 
 Add suggested topics and ideas here: 
 [Google doc for ideas brain dump](https://docs.google.com/document/d/1jUdNckEyq8KCdHE2EFlncBy74TiQZj-gKjBX3_1t95A/edit?usp=sharing)
