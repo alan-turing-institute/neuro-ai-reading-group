@@ -19,7 +19,7 @@ Meeting Schedule:
 | 04-10-2024 | [The Brain Emulation micro-workshop](https://www.youtube.com/live/YYcuM45qu1o?si=xZU7CuC0HQxAu7_r)   | - | Mae Jamison (1st floor)  |
 | 18-10-2024 | [The Brain Emulation micro-workshop](https://www.youtube.com/live/YYcuM45qu1o?si=xZU7CuC0HQxAu7_r) continued   | - | Ursula Franklin (1st floor)  |
 | 01-11-2024 |  Delays and Structural Plasticity in Spiking Neural Networks  | Balázs Mészáros | Florence Nightingale (1st floor)  |
-| 05-11-2024 |  TBD  | TBD | TBD  |
+| 05-11-2024 |  Jess Ju (ICL Enrichment student)  | Advanced Neural Network Models Informed by Information Theory | FLorence Nightingale (1st floor)  |
 
 Add suggested topics and ideas here: 
 [Google doc for ideas brain dump](https://docs.google.com/document/d/1jUdNckEyq8KCdHE2EFlncBy74TiQZj-gKjBX3_1t95A/edit?usp=sharing)
