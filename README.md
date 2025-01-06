@@ -1,6 +1,17 @@
 # neuro-ai-reading-group
 
-Meeting Schedule: 
+## Meeting Schedule: 
+
+### 2025
+
+| Date | Topic | Lead | Room |                                                                       
+| ---- | ----- | ---- | ---- | 
+| 2025-01-17 | Invited talk: [The Brain Emulation Challenge](https://videos.carboncopies.org/view?m=yY1QRzTQA)   | Randal Koene  | Marian Rejewski  |
+| 2025-01-31 | Free   | -  | -  |
+| 2025-02-14 | Free   | -  | -  |
+| 2025-02-28 | Free   | -  | -  |
+
+### 2024
 
 | Date | Topic | Lead | Room |                                                                       
 | ---- | ----- | ---- | ---- | 
