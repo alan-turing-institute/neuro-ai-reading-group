@@ -1,5 +1,21 @@
 # neuro-ai-reading-group
 
+## Group description
+
+This is Turing's Neuro-AI reading group where we discuss topics related to the intersection between Neuroscience and AI. 
+
+We meet once every two weeks on Fridays, 2-3pm. Anyone is welcome to suggest a topic to discuss.
+
+The meetings are usually very relaxed, bring anything you'd like to talk about: articles, videos, podcasts, company highlights, etc. 
+
+The group is run by Levan Bokeria <lbokeria@turing.ac.uk>, Balázs Mészáros <bmeszaros@turing.ac.uk>, and Jess Yu <jyu@turing.ac.uk>. 
+
+### Links:
+- [Zoom Link](https://turing-uk.zoom.us/j/95876499669?pwd=N2d6cVFVQnV3ZFhzdWk5dEpSN0ltZz09) 
+- [Sharepoint space](https://thealanturininstitute.sharepoint.com/sites/neuro-ai-reading-group/)
+- [Meeting recordings](https://thealanturininstitute.sharepoint.com/:f:/s/neuro-ai-reading-group/EtwXWDfE6I5AuwVrSwxFwnMBfYFNJaQcRvxpxvcNzZOECQ?e=XU1isP)
+
+
 ## Meeting Schedule: 
 
 ### 2025
