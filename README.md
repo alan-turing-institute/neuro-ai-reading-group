@@ -20,12 +20,12 @@ The group is run by Levan Bokeria <lbokeria@turing.ac.uk>, Balázs Mészáros <b
 
 ### 2025
 
-| Date | Topic | Lead | Room |                                                                       
-| ---- | ----- | ---- | ---- | 
-| 2025-01-17 | Invited talk: [The Brain Emulation Challenge](https://videos.carboncopies.org/view?m=yY1QRzTQA). Please [register](https://turing-uk.zoom.us/webinar/register/WN_KDUdEIcJSaur1HNQ65coLg).   | Randal Koene  | Marian Rejewski  |
-| 2025-01-31 | Free   | -  | -  |
-| 2025-02-14 | Free   | -  | -  |
-| 2025-02-28 | Free   | -  | -  |
+| Date | Topic | Lead | Room | Recording |                                                                       
+| ---- | ----- | ---- | ---- | --------- |
+| 2025-01-17 | Invited talk: [The Brain Emulation Challenge](https://videos.carboncopies.org/view?m=yY1QRzTQA). Please [register](https://turing-uk.zoom.us/webinar/register/WN_KDUdEIcJSaur1HNQ65coLg).   | Randal Koene  | Marian Rejewski  | [Recording](https://thealanturininstitute.sharepoint.com/:f:/s/neuro-ai-reading-group/EvUWe91Qj3RKizZyT5HGmVsBKVwEzGS_MKsyHpsH3EUiUw?e=Z8EwY4)
+| 2025-01-31 | Free   | -  | -  | - |
+| 2025-02-14 | Free   | -  | -  | - |
+| 2025-02-28 | Free   | -  | -  | - |
 
 ### 2024
 
