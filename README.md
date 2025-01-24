@@ -49,6 +49,8 @@ The group is run by Levan Bokeria <lbokeria@turing.ac.uk>, Balázs Mészáros <b
 | 15-11-2024 |  Advanced Neural Network Models Informed by Information Theory | Jess Yu (ICL Enrichment student)| FLorence Nightingale (1st floor)  |
 | 29-11-2024 |  Could a Neuroscientist Understand a Microprocessor? | Levan Bokeria | Marian Rejewski (1st floor)  |
 | 13-12-2024 |  Encoding innate ability through a genomic bottleneck | Balázs Mészáros | Marian Rejewski (1st floor)  |
+| 31-01-2025 |  Dynamics of specialization in neural modules under resource constraints | Balázs Mészáros | TBA |
+| 14-02-2025 |  Causal Neuroscience | Yorgos Felekis | TBA |
 
 Add suggested topics and ideas here: 
 [Google doc for ideas brain dump](https://docs.google.com/document/d/1jUdNckEyq8KCdHE2EFlncBy74TiQZj-gKjBX3_1t95A/edit?usp=sharing)
