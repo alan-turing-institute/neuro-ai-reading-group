@@ -25,7 +25,7 @@ The group is run by Levan Bokeria <lbokeria@turing.ac.uk>, Balázs Mészáros <b
 | 2025-01-17 | Invited talk: [The Brain Emulation Challenge](https://videos.carboncopies.org/view?m=yY1QRzTQA). Please [register](https://turing-uk.zoom.us/webinar/register/WN_KDUdEIcJSaur1HNQ65coLg).   | Randal Koene  | Marian Rejewski  | [Recording](https://thealanturininstitute.sharepoint.com/:f:/s/neuro-ai-reading-group/EvUWe91Qj3RKizZyT5HGmVsBKVwEzGS_MKsyHpsH3EUiUw?e=Z8EwY4)
 | 2025-01-31 |  Dynamics of specialization in neural modules under resource constraints | Balázs Mészáros | Marian Rejewski |
 | 2025-02-14 |  Causal Neuroscience | Yorgos Felekis | Marian Rejewski |
-| 2025-02-28 |  NeuroAI for AI Safety: Use neuroscience methods for interpretability  | Sruthi Kuriakose  | Joan Clarke  |
+| 2025-02-28 |  NeuroAI for AI Safety: Use neuroscience methods for interpretability  | Sruthi Kuriakose  | Joan Clarke  | [Recording](https://thealanturininstitute.sharepoint.com/:f:/s/neuro-ai-reading-group/EiSoj59ZjSxFo7YXspIncigBnIbP2ehZnUsyG_MlnBikfA?e=Od7JPx) |
 
 ### 2024
 
