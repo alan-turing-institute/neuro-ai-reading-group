@@ -26,6 +26,8 @@ The group is run by Levan Bokeria <lbokeria@turing.ac.uk>, Balázs Mészáros <b
 | 2025-01-31 |  Dynamics of specialization in neural modules under resource constraints | Balázs Mészáros | Marian Rejewski |
 | 2025-02-14 |  Causal Neuroscience | Yorgos Felekis | Marian Rejewski |
 | 2025-02-28 |  NeuroAI for AI Safety: Use neuroscience methods for interpretability  | Sruthi Kuriakose  | Joan Clarke  | [Recording](https://thealanturininstitute.sharepoint.com/:f:/s/neuro-ai-reading-group/EiSoj59ZjSxFo7YXspIncigBnIbP2ehZnUsyG_MlnBikfA?e=Od7JPx) |
+| 2025-03-13 | Book Highlight: Walking with Einstein | Bea Costa Gomes | Marian Rejewski | |
+| 2025-04-11 | Background Literature to Neuro-inspired AI efficiency | Various | TBD | |
 
 ### 2024
 
