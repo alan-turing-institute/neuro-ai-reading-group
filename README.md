@@ -28,6 +28,11 @@ The group is run by Levan Bokeria <lbokeria@turing.ac.uk>, Balázs Mészáros <b
 | 2025-02-28 |  NeuroAI for AI Safety: Use neuroscience methods for interpretability  | Sruthi Kuriakose  | Joan Clarke  | [Recording](https://thealanturininstitute.sharepoint.com/:f:/s/neuro-ai-reading-group/EiSoj59ZjSxFo7YXspIncigBnIbP2ehZnUsyG_MlnBikfA?e=Od7JPx) |
 | 2025-03-13 | Book Highlight: Walking with Einstein | Bea Costa Gomes | Marian Rejewski | |
 | 2025-04-11 | Background Literature to Neuro-inspired AI efficiency | Various | TBD | |
+| 2025-04-25 | [2022 Roadmap on Neuromorphic Computing and Engineeting](https://iopscience.iop.org/article/10.1088/2634-4386/ac4a83)  | Fiona Young | Isaac Asimof | |
+| 2025-05-23 | [Lurie Networks with Robust Convergent Dynamics](https://openreview.net/forum?id=3Jm4dbrKGZ)  | Carl Richardson | Florence Nightingale | |
+| 2025-06-06 | Free | - | TBD | |
+| 2025-06-20 | Free | - | TBD | |
+| 2025-07-04 | Free | - | TBD | |
 
 ### 2024
 
