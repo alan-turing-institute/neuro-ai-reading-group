@@ -30,7 +30,7 @@ The group is run by Levan Bokeria <lbokeria@turing.ac.uk>, Balázs Mészáros <b
 | 2025-04-11 | Background Literature to Neuro-inspired AI efficiency | Various | TBD | |
 | 2025-04-25 | [2022 Roadmap on Neuromorphic Computing and Engineeting](https://iopscience.iop.org/article/10.1088/2634-4386/ac4a83)  | Fiona Young | Isaac Asimof | |
 | 2025-05-23 | [Lurie Networks with Robust Convergent Dynamics](https://openreview.net/forum?id=3Jm4dbrKGZ)  | Carl Richardson | Florence Nightingale | |
-| 2025-06-06 | [The neuroconnectionist research programme (2023)](https://www.nature.com/articles/s41583-023-00705-w) and [Inductive biases for deep learning of higher-level cognition (2022)](http://doi.org/10.1098/rspa.2021.0068) | Balázs Mészáros | TBD | |
+| 2025-06-06 | [The neuroconnectionist research programme (2023)](https://www.nature.com/articles/s41583-023-00705-w) and [Inductive biases for deep learning of higher-level cognition (2022)](http://doi.org/10.1098/rspa.2021.0068) | Balázs Mészáros | Marian Rejewski | |
 | 2025-06-20 | Free | - | TBD | |
 | 2025-07-04 | Free | - | TBD | |
 
